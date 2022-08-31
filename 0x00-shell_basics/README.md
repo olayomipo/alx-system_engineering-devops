@@ -1,1 +1,1 @@
-This is the readme of the  alx-system_engineering-devops
+script that prints the absolute path name of the current working directory in a long format
