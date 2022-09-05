@@ -68,4 +68,4 @@ git push
 
 
 
-^L
+clear >$(tty)
