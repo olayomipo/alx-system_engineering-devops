@@ -1,10 +1,8 @@
 #!/usr/bin/env bash
-# Displays 'Best School' in stdout 10 times using the until loop
-
-index=0
-
-until [ $index -eq 10 ]
+# Displays Best School 10 times using 'until' loop
+i=0
+until [ $i -ge 10 ]
 do
-  echo "Best School"
-  ((index++))
+	echo "Best School"
+	((i++))
 done
